@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "Kel",
+    "description": "Kel es una pequeña y tímida niña quien está en un difícil momento de su vida. Un día ella se encuentra con tres fantasmas que la ayudan a superarlo contandole las enseñanzas de sus vidas pasadas.",
+    "image_url": "https://raw.githubusercontent.com/AlexPrieto01/fp/main/Edited_girl.jpg"
+  },
+  {
+    "name": "Brenda",
+    "description": "Brenda era una carismática bailarina quien tuvo que dejar su pasión debido a una enfermedad que dejo todo su cuerpo paralizado.",
+    "image_url": "https://raw.githubusercontent.com/AlexPrieto01/fp/main/Edited_woman.jpg"
+  },
+  {
+    "name": "George",
+    "description": "George fue un chico romántico quien se mantiene amando profundamente a la mujer que le abandono por 100 años.",
+    "image_url": "https://raw.githubusercontent.com/AlexPrieto01/fp/main/Edited_boy.jpg"
+  },
+  {
+    "name": "Dave",
+    "description": "Dave fue un animador muy optimista que no se preocupaba por lo que la gente dijese de su trabajo, él aún perseguia sus sueños sabiendo que el karma le ayudaría.",
+    "image_url": "https://raw.githubusercontent.com/AlexPrieto01/fp/main/Edited_man.jpg"
+  },
+  {
+    "name": "Ghosts",
+    "description": "Los espíritus de Brenda, Gorge y Dave que tras morir se preocupan por la pequeña Kel.",
+    "image_url": "https://raw.githubusercontent.com/AlexPrieto01/fp/main/Edited_ghosts.jpg"
+  }
+]
